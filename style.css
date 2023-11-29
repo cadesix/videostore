@@ -50,9 +50,9 @@ a:hover {
 /* Responsive container */
 @media (max-width: 600px) {
   .logo {
-    font-size: 1.5em;
+    font-size: 5em;
   }
   .subtext {
-    font-size: 1em;
+    font-size: .5em;
   }
 }
