@@ -28,6 +28,10 @@ body, html {
   font-size: 5em;
 }
 
+.logo:hover {
+  color: #8256FF;
+}
+
 .subtext {
   font-size: 1.2em;
   color: white;
@@ -37,6 +41,10 @@ body, html {
   display: block;
   color: white;
   text-decoration: underline;
+}
+
+a:hover {
+  text-decoration: none;
 }
 
 /* Responsive container */
